@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Expense_Tracker_React
+Developed a React-based Expense Tracker application to record, manage, and monitor daily income and expenses efficiently. Implemented features like adding transactions, deleting records, and tracking balance dynamically using React components, hooks, and state management.
+>>>>>>> e6f6d28f1928935a523f0659be5b93945423170f
