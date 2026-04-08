@@ -1,0 +1,64 @@
+{
+  "expenses": [
+    {
+      "id": "e1",
+      "title": "car insurance",
+      "amount": "300",
+      "date": "2025-4-11"
+    },
+    {
+      "id": "e2",
+      "title": "house rent",
+      "amount": "1000",
+      "date": "2025-5-12"
+    },
+    {
+      "id": "e3",
+      "title": "tution fee",
+      "amount": "500",
+      "date": "2025-6-15"
+    },
+    {
+      "id": "e4",
+      "title": "College fee",
+      "amount": "800",
+      "date": "2025-7-15"
+    },
+    {
+      "id": "0.08536412838588947",
+      "title": "",
+      "amount": "",
+      "date": null
+    },
+    {
+      "id": "0.1158812070149815",
+      "title": "Fees",
+      "amount": "5000",
+      "date": "2022-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "0.7797862768294821",
+      "title": "",
+      "amount": "",
+      "date": null
+    },
+    {
+      "id": "0.9975368840152927",
+      "title": "",
+      "amount": "",
+      "date": null
+    },
+    {
+      "id": "0.16537388150529042",
+      "title": "fees",
+      "amount": "500",
+      "date": "2022-12-14T00:00:00.000Z"
+    },
+    {
+      "id": "0.23860746033117897",
+      "title": "terna clg fees",
+      "amount": "800000",
+      "date": "2022-12-17T00:00:00.000Z"
+    }
+  ]
+}
