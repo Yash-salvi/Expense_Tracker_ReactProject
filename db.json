@@ -4,49 +4,31 @@
       "id": "e1",
       "title": "car insurance",
       "amount": "300",
-      "date": "2025-4-11"
+      "date": "2025-04-11"
     },
     {
       "id": "e2",
       "title": "house rent",
       "amount": "1000",
-      "date": "2025-5-12"
+      "date": "2025-05-12"
     },
     {
       "id": "e3",
       "title": "tution fee",
       "amount": "500",
-      "date": "2025-6-15"
+      "date": "2025-06-15"
     },
     {
       "id": "e4",
       "title": "College fee",
       "amount": "800",
-      "date": "2025-7-15"
-    },
-    {
-      "id": "0.08536412838588947",
-      "title": "",
-      "amount": "",
-      "date": null
+      "date": "2025-07-15"
     },
     {
       "id": "0.1158812070149815",
       "title": "Fees",
       "amount": "5000",
       "date": "2022-12-03T00:00:00.000Z"
-    },
-    {
-      "id": "0.7797862768294821",
-      "title": "",
-      "amount": "",
-      "date": null
-    },
-    {
-      "id": "0.9975368840152927",
-      "title": "",
-      "amount": "",
-      "date": null
     },
     {
       "id": "0.16537388150529042",
@@ -71,12 +53,6 @@
       "title": "yuuu",
       "amount": "8999",
       "date": "2026-11-20T00:00:00.000Z"
-    },
-    {
-      "id": "0.36629468854045677",
-      "title": "train pass",
-      "amount": "120",
-      "date": "2022-07-30T00:00:00.000Z"
     }
   ]
 }
