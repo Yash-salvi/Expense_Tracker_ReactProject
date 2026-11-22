@@ -86,6 +86,7 @@ useEffect(()=>{
       },
       body: JSON.stringify(expense),
     })
+<<<<<<< HEAD
     .then((response) => {
       if (!response.ok) {
         throw new Error(`Server responded with ${response.status}`);
@@ -95,6 +96,13 @@ useEffect(()=>{
     .catch((error) => {
       console.error("Failed to add expense:", error);
     });
+=======
+    .then(
+      (resonse)=>{
+        FetchData();
+      }
+    );
+>>>>>>> 50f5aad889f9d9fcbc9f062f2ed30b249328e7c7
     
   }
   return (

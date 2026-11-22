@@ -30,7 +30,11 @@ function ExpenseItem(props) {
   return (
     <Card className='expense-item'>
    
+<<<<<<< HEAD
       <ExpenseDate date={props.date}></ExpenseDate>
+=======
+      <ExpenseDate date={new Date(props.date)}></ExpenseDate>
+>>>>>>> 50f5aad889f9d9fcbc9f062f2ed30b249328e7c7
       <div className="expense-item_description">
         <h2> {props.title}</h2>
         <div className="expense-item_price">${props.amount}</div>

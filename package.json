@@ -14,7 +14,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
+<<<<<<< HEAD
     "server": "json-server --port 5000 db.json",
+=======
+>>>>>>> 50f5aad889f9d9fcbc9f062f2ed30b249328e7c7
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
