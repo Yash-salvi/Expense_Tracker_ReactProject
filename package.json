@@ -10,14 +10,13 @@
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "json-server": "^0.17.4"
   },
   "scripts": {
     "start": "react-scripts start",
-<<<<<<< HEAD
-    "server": "json-server --port 5000 db.json",
-=======
->>>>>>> 50f5aad889f9d9fcbc9f062f2ed30b249328e7c7
+    "server": "json-server --watch db.json --host 0.0.0.0 --port 5000",
+    "render": "json-server --watch db.json --host 0.0.0.0 --port $PORT",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
